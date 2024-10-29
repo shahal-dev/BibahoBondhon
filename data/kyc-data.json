@@ -1,0 +1,40 @@
+{
+  "bride": {
+    "nid": "1",
+    "full_name": "Karim",
+    "father_name": "Rahim",
+    "mother_name": "Achiya",
+    "date_of_birth": "1990-01-01",
+    "gender": "Male",
+    "blood_group": "O+",
+    "address": {
+      "village_or_road": "Some Road",
+      "post_office": "Some PO",
+      "upazila": "Some Upazila",
+      "district": "Some District",
+      "division": "Some Division"
+    },
+    "issue_date": "2010-01-01",
+    "expiry_date": "2030-01-01",
+    "fingerprintHash": "hash_of_Karim_fingerprint"
+  },
+  "groom": {
+    "nid": "2",
+    "full_name": "Maria",
+    "father_name": "Jalil",
+    "mother_name": "Tahira",
+    "date_of_birth": "1992-02-02",
+    "gender": "Female",
+    "blood_group": "A+",
+    "address": {
+      "village_or_road": "Another Road",
+      "post_office": "Another PO",
+      "upazila": "Another Upazila",
+      "district": "Another District",
+      "division": "Another Division"
+    },
+    "issue_date": "2012-02-02",
+    "expiry_date": "2032-02-02",
+    "fingerprintHash": "hash_of_Maria_fingerprint"
+  }
+}
